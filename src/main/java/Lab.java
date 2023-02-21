@@ -5,7 +5,7 @@ public class Lab {
      *
      * This is coding problem that will make use of the modulus (%) operator, which can help us calculate if a number
      * is perfectly divisible by another number.
-     * The modulus operator returns the remainder after a division (eg 8%3=2).
+     * The modulus operator returns he remainder after a division (eg 8%3=2).
      *
      * If you try to copy answers from the internet, you will probably get this challenge wrong. The premise is
      * slightly simpler than the classic fizzbuzz problem.
